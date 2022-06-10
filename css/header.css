@@ -1,0 +1,15 @@
+.cabecalho-head {
+    background-color: #0009;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed; 
+    width: 100%;
+    gap: 10%;
+    backdrop-filter: blur(1.2px);
+}
+.LeonelLogo1{
+    display: flex;
+    justify-content: space-around;
+    height: 10vh;
+}
